@@ -1,13 +1,24 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Zoey Yandell"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - projects.qmd
+      - resources.qmd
+      
+page-footer:
+  left: |
+    &copy; Zoey Yandell, 2023<br>
+    All content licensed under <i class='bi-badge-cc'></i>
+    [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+  right: |
+    Site built with <a href='https://quarto.org/'>Quarto</a>
+
 
 format:
   html:

@@ -1,11 +1,30 @@
 ---
-title: "temp_website"
+title: "Zoey Yandell"
+about:
+  image: Zoey_Yandell.jpg
+  template: jolla
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/zeyandell
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zoey-yandell-5893a8242/
 ---
 
-This is a Quarto website.
+<!-- This content appears above the formatted about page content. -->
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {#intro-heading}
+Hi there! I'm Zoey. I'm an aspiring sustainability planner and data scientist working on local, data-driven solutions to the climate crisis. I love using my abilities as a researcher and "code detective" to dive deep into interesting environmental problems.
 
-```{r}
-1 + 1
-```
+Outside of work, you can find me juggling too many ttrpg campaigns and foraging in local parks.
+
+## Education
+
+**Macalester College** \| St. Paul MN
+
+B.A. in Mathematics and Environmental Studies (Urban Sustainability) \| Sept 2020 - May 2024
+:::
+
+<!-- This content appears below the formatted about page content. -->
