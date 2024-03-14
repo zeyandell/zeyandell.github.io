@@ -15,16 +15,20 @@ about:
 
 <!-- This content appears above the formatted about page content. -->
 
+<!-- decide whether to use 1st or 3rd person here -->
+
 ::: {#intro-heading}
-Hi there! I'm Zoey. I'm an aspiring sustainability planner and data scientist working on local, data-driven solutions to the climate crisis. I love using my abilities as a researcher and "code detective" to dive deep into interesting environmental problems.
+Hi there! I'm Zoey. I'm a young environmental leader working for climate solutions on a local and regional level. I believe that cities hold massive potential for addressing the climate crisis, as well as \[adj\] vulnerability, and that the coming era will demand flexibility, ingenuity, and dedication as we reimagine what city life can look like. With a background in environmental studies and data science, I am excited to join the next generation of urban sustainability leaders and find a path forward into the Anthropocene.
 
-Outside of work, you can find me juggling too many ttrpg campaigns and foraging in local parks.
+As a data scientist, I understand the importance of grounding sustainability initiatives in data of all different types. I am passionate about blending quantitative data with deep community engagement. Environmental harms and hazards affect real people in our cities, and we need all of our voices at the table to design solutions that help all of us.
 
-## Education
+## Experience
 
-**Macalester College** \| St. Paul MN
+I am a upcoming graduate of Macalester College with a degree in Environmental Studies and Mathematics, concentrating in Urban Sustainability. Currently, I work as a Climate Data Analyst at the Metropolitan Council of the Twin Cities, putting my multidisciplinary background to work developing data tools and environmental policy for the metropolitan region. I also channel my passion for the environment into activism with Sunrise Twin Cities, where I serve as a democratic representative to the national Sunrise movement and contribute as a lead researcher and writer to youth-led climate activism with national scale and local focus.
 
-B.A. in Mathematics and Environmental Studies (Urban Sustainability) \| Sept 2020 - May 2024
+Recently, I was named as a SDSN Youth Local Pathways Fellow, joining a global group of young urban sustainability professionals in an internationally-recognized program to advance SDG 11 and build the global youth sustainability movement.
+
+Outside of work, you can find me juggling too many tabletop roleplaying games and foraging in local parks.
 :::
 
-<!-- This content appears below the formatted about page content. -->
+<!-- This content appears below the formatted about page content.  Add contact info -->

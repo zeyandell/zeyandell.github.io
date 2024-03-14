@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Zoey Yandell",
     "section": "",
-    "text": "Hi there! I’m Zoey. I’m an aspiring sustainability planner and data scientist working on local, data-driven solutions to the climate crisis. I love using my abilities as a researcher and “code detective” to dive deep into interesting environmental problems.\nOutside of work, you can find me juggling too many ttrpg campaigns and foraging in local parks.\n\n\nMacalester College | St. Paul MN\nB.A. in Mathematics and Environmental Studies (Urban Sustainability) | Sept 2020 - May 2024"
+    "text": "Hi there! I’m Zoey. I’m a young environmental leader working for climate solutions on a local and regional level. I believe that cities hold massive potential for addressing the climate crisis, as well as [adj] vulnerability, and that the coming era will demand flexibility, ingenuity, and dedication as we reimagine what city life can look like. With a background in environmental studies and data science, I am excited to join the next generation of urban sustainability leaders and find a path forward into the Anthropocene.\nAs a data scientist, I understand the importance of grounding sustainability initiatives in data of all different types. I am passionate about blending quantitative data with deep community engagement. Environmental harms and hazards affect real people in our cities, and we need all of our voices at the table to design solutions that help all of us.\nOutside of work, you can find me juggling too many ttrpg campaigns and foraging in local parks.\n\n\nMacalester College | St. Paul MN\nB.A. in Mathematics and Environmental Studies (Urban Sustainability) | Sept 2020 - May 2024"
   },
   {
     "objectID": "projects.html",
@@ -19,5 +19,68 @@
     "title": "Zoey Yandell",
     "section": "",
     "text": "Macalester College | St. Paul MN\nB.A. in Mathematics and Environmental Studies (Urban Sustainability) | Sept 2020 - May 2024"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Skills and Experience",
+    "section": "",
+    "text": "proficient in R and RStudio\n\nused for data visualization and app development\npackage proficiencies include tidyverse, shiny, quarto, sf, ggplot2 and plotly\nsee projects: [212 project] [strategy planning tool] [ghg inventory] [155 projects]\n\nintermediate understanding of Python\n\nused for mathematical modeling, data visualization and varied programming tasks\nsee projects: [math capstone] [123 project] [alliaria]\n\nintermediate understanding of MATLAB\n\nused for mathematical modeling\nsee projects: [alliaria]\n\nbasic understanding of C++\n\nused for mathematical modeling\nsee projects: [alliaria]\n\nintermediate understanding of ArcGIS Pro\nintermediate understanding of Excel"
+  },
+  {
+    "objectID": "experience.html#skills",
+    "href": "experience.html#skills",
+    "title": "Skills and Experience",
+    "section": "",
+    "text": "proficient in R and RStudio\n\nused for data visualization and app development\npackage proficiencies include tidyverse, shiny, quarto, sf, ggplot2 and plotly\nsee projects: [212 project] [strategy planning tool] [ghg inventory] [155 projects]\n\nintermediate understanding of Python\n\nused for mathematical modeling, data visualization and varied programming tasks\nsee projects: [math capstone] [123 project] [alliaria]\n\nintermediate understanding of MATLAB\n\nused for mathematical modeling\nsee projects: [alliaria]\n\nbasic understanding of C++\n\nused for mathematical modeling\nsee projects: [alliaria]\n\nintermediate understanding of ArcGIS Pro\nintermediate understanding of Excel"
+  },
+  {
+    "objectID": "experience.html#metropolitan-council",
+    "href": "experience.html#metropolitan-council",
+    "title": "Skills and Experience",
+    "section": "Metropolitan Council",
+    "text": "Metropolitan Council"
+  },
+  {
+    "objectID": "experience.html#sunrise-twin-cities",
+    "href": "experience.html#sunrise-twin-cities",
+    "title": "Skills and Experience",
+    "section": "Sunrise Twin Cities",
+    "text": "Sunrise Twin Cities"
+  },
+  {
+    "objectID": "experience.html#research-at-macalester-college",
+    "href": "experience.html#research-at-macalester-college",
+    "title": "Skills and Experience",
+    "section": "Research at Macalester College",
+    "text": "Research at Macalester College"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education and Training",
+    "section": "",
+    "text": "St. Paul, MN\nB.A. in Mathematics and Environmental Studies (Urban Sustainability) | Sept 2020 - May 2024\nRelevant Coursework: - [copypaste]\nCapstone: Analyzing bias in transportation systems using agent-based modeling [link to project page]"
+  },
+  {
+    "objectID": "education.html#macalester-college",
+    "href": "education.html#macalester-college",
+    "title": "Education and Training",
+    "section": "",
+    "text": "St. Paul, MN\nB.A. in Mathematics and Environmental Studies (Urban Sustainability) | Sept 2020 - May 2024\nRelevant Coursework: - [copypaste]\nCapstone: Analyzing bias in transportation systems using agent-based modeling [link to project page]"
+  },
+  {
+    "objectID": "education.html#dis-study-abroad-in-copenhagen",
+    "href": "education.html#dis-study-abroad-in-copenhagen",
+    "title": "Education and Training",
+    "section": "DIS Study Abroad in Copenhagen",
+    "text": "DIS Study Abroad in Copenhagen\nCopenhagen, DK\nAugust - December 2022\n[check master resume overview]\nRelevant Coursework: - Sustainable Development in Northern Europe - Geographic Information Systems: Applied Climate Change Cases - Principles of Urban Livability - Sustainable by Design"
+  },
+  {
+    "objectID": "education.html#sdsn-youth-local-pathways-fellowship",
+    "href": "education.html#sdsn-youth-local-pathways-fellowship",
+    "title": "Education and Training",
+    "section": "SDSN Youth Local Pathways Fellowship",
+    "text": "SDSN Youth Local Pathways Fellowship\nMarch 2024 - March 2025\n[copy from website]"
   }
 ]
