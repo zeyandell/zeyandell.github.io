@@ -1,0 +1,17 @@
+---
+title: "Greenhouse Gas Strategy Planning Tool"
+description: "A tool for policymakers projecting the potential impacts of greenhouse gas reduction strategies."
+image: GHG-strategy-planning-tool.png
+categories:
+  - Data
+  - Environmental Communication
+  - Environmental Policy
+  - Met Council
+about:
+  template: marquee
+  image: GHG-strategy-planning-tool.png
+---
+
+This [tool](https://metrocouncil.org/Communities/Planning/Local-Planning-Assistance/Greenhouse-Gas-Strategy-Planning-Tool.aspx) projects greenhouse gas emissions out to 2040 for municipalities in the Twin Cities metropolitan area and estimates the impact of greenhouse gas reduction strategies ranging from increasing transit-oriented development to improving energy efficiency. It was designed to assist local policymakers with climate planning and goal-setting.
+
+This tool was designed by a team of researchers at the Metropolitan Council over the course of several years. I joined the team in 2023 and assisted with troubleshooting, fixed data errors, and wrote high-level documentation of our process for the "Methods" page. More details can be found in the tool itself, and in the github repository once it is publically available.

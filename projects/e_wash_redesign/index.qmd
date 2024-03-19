@@ -1,0 +1,17 @@
+---
+title: "E. Washington Ave Redesign"
+description: "A pedestrian-focused redesign of a busy street."
+image: norris_court.png
+categories:
+  - Design
+  - Urbanism
+about:
+  template: marquee
+  image: norris_court.png
+---
+
+This proposal for design interventions on East Washington in Madison, WI uses an analysis of Jan Gehl's principles of livability, the conditions of the street and neighborhood, and potential stakeholders to explore opportunities for improving pedestrian experience and safety. It was completed as part of Bettina Werner's Urban Livability class at DIS Copenhagen.
+
+![](EWashRedesign_ppt/Slide1.png){fig-align="center"} ![](EWashRedesign_ppt/Slide2.png){fig-align="center"} ![](EWashRedesign_ppt/Slide3.png){fig-align="center"} ![](EWashRedesign_ppt/Slide4.png){fig-align="center"} ![](EWashRedesign_ppt/Slide5.png){fig-align="center"} ![](EWashRedesign_ppt/Slide6.png){fig-align="center"} ![](EWashRedesign_ppt/Slide7.png){fig-align="center"} ![](EWashRedesign_ppt/Slide8.png){fig-align="center"} ![](EWashRedesign_ppt/Slide9.png){fig-align="center"} ![](EWashRedesign_ppt/Slide10.png){fig-align="center"} ![](EWashRedesign_ppt/Slide11.png){fig-align="center"} ![](EWashRedesign_ppt/Slide12.png){fig-align="center"} ![](EWashRedesign_ppt/Slide13.png){fig-align="center"} ![](EWashRedesign_ppt/Slide14.png){fig-align="center"} ![](EWashRedesign_ppt/Slide15.png){fig-align="center"} ![](EWashRedesign_ppt/Slide16.png){fig-align="center"} ![](EWashRedesign_ppt/Slide17.png){fig-align="center"} ![](EWashRedesign_ppt/Slide18.png){fig-align="center"} ![](EWashRedesign_ppt/Slide19.png){fig-align="center"} ![](EWashRedesign_ppt/Slide20.png){fig-align="center"} ![](EWashRedesign_ppt/Slide21.png){fig-align="center"} ![](EWashRedesign_ppt/Slide22.png){fig-align="center"} ![](EWashRedesign_ppt/Slide23.png){fig-align="center"} ![](EWashRedesign_ppt/Slide24.png){fig-align="center"} ![](EWashRedesign_ppt/Slide25.png){fig-align="center"} ![](EWashRedesign_ppt/Slide26.png){fig-align="center"} ![](EWashRedesign_ppt/Slide27.png){fig-align="center"} ![](EWashRedesign_ppt/Slide28.png){fig-align="center"} ![](EWashRedesign_ppt/Slide29.png){fig-align="center"}
+
+To download these slides in their original format, click [here](EWashRedesign.pptx).

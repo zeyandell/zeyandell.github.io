@@ -1,0 +1,16 @@
+---
+title: "Greenhouse Gas Inventory"
+description: "An inventory of greenhouse gas emissions in the Metropolitan Council region and beyond."
+image: waste_plot.png
+categories:
+  - Data
+  - Environmental Communication
+  - Met Council
+about:
+  template: marquee
+  image: waste_plot.png
+---
+
+The [2024 Met Council Greenhouse Gas Inventory](https://metrocouncil.org/Data-and-Maps/Research-and-Data/Climate-tools.aspx) was conducted as part of an EPA [Climate Pollution Reduction Grant](https://metrocouncil.org/Planning/Climate/Climate-Pollution-Reduction-Grant.aspx) awarded to the Council. The first step in this ongoing process was to inventory greenhouse gas emissions from energy, transportation, and waste sectors for the 11-county grant region. The [Priority Climate Action Plan](https://metrocouncil.org/Planning/Climate/Climate-Pollution-Reduction-Grant/Twin-Cities-Priority-Climate-Action-Plan.aspx), published in March 2024, includes a detailed report of this inventory's results and suggested priority actions for reducing emissions in the included region.
+
+As a part of the data team for this project, I developed the solid waste sector of this inventory, from sourcing data to conducting quality analysis of the results. I also wrote the solid waste chapters of a more detailed report that will be publicly available on Github shortly. The project was led by Joel Huting, Peter Wilfahrt, and LisaBeth Barajas.

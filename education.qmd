@@ -1,5 +1,5 @@
 ---
-title: "Education and Training"
+title: "Education and Skills"
 ---
 
 ## Macalester College
@@ -27,3 +27,35 @@ Relevant Coursework: - Sustainable Development in Northern Europe - Geographic I
 March 2024 - March 2025
 
 \[copy from website\]
+
+## Skills
+
+-   proficient in R and RStudio
+
+    -   used for data visualization and app development
+
+    -   package proficiencies include tidyverse, shiny, quarto, sf, ggplot2 and plotly
+
+    -   see projects: \[212 project\] \[strategy planning tool\] \[ghg inventory\] \[155 projects\]
+
+-   intermediate understanding of Python
+
+    -   used for mathematical modeling, data visualization and varied programming tasks
+
+    -   see projects: \[math capstone\] \[123 project\] \[alliaria\]
+
+-   intermediate understanding of MATLAB
+
+    -   used for mathematical modeling
+
+    -   see projects: \[alliaria\]
+
+-   basic understanding of C++
+
+    -   used for mathematical modeling
+
+    -   see projects: \[alliaria\]
+
+-   intermediate understanding of ArcGIS Pro
+
+-   intermediate understanding of Excel

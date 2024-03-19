@@ -1,0 +1,16 @@
+---
+title: "Manmade Wilderness: Early Twin Cities Parks Development and Nature in the Urban Landscape"
+description: "A research paper investigating the roots of Twin Cities park development and ideologies of nature in cities."
+image: como_park.jpg
+categories:
+  - Urbanism
+  - Design
+  - Environmental Communication
+about:
+  template: marquee
+  image: como_park.jpg
+---
+
+As part of Chris Wells' US Urban Environmental History course, I wrote this paper investigating the origins of Twin Cities parks, with an eye towards the way ideologies about nature revealed themselves in the design and planning of the parks. Through extensive primary research, I traced the ways that parks were designed to give a tightly controlled impression of "nature" and thus relegate urbanites' relationship with nature to a few specific areas within the cities. This paper builds on and localizes an ongoing discussion about parks design movements and perceptions of nature in cities.
+
+Read the paper [here](Manmade_Wilderness_article.pdf).

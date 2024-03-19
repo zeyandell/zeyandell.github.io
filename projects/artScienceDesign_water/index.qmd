@@ -1,0 +1,15 @@
+---
+title: "Water I and II"
+description: "Two compositions for piano and accompanying art pieces exploring our relationship with water."
+image: sunrise.png
+categories:
+  - Design
+  - Environmental Communication
+about:
+  template: broadside
+  image: sunrise.png
+---
+
+The Water series is a set of two brief compositions for the piano, written and played by me, exploring my associations with water throughout my life. [Water I: Snowmelt](https://zeyandell.wixsite.com/snowmelt) draws on the feeling of early spring, when snow melts and runs in rivulets down steep inclines, inspired by visualizations of watershed flow and my own memories of springtime. When I listen to it, I think of the minnows darting around my feet during summer trips to Madeline Island, or of the sunlight glinting off melting snowdrifts in my backyard.
+
+[Water II: Sunrise](https://zeyandell.wixsite.com/sunrise) invokes the water of a lake as the sun rising over it paints it in a thousand different colors, reshaping the landscape with each passing moment. This piece was inspired by kayaking and canoeing with my family on lakes Mendota and Monona, and the still moments when we would lay our paddles down and just sit looking across the water, overtaken by the scale and beauty of it.

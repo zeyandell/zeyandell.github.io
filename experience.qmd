@@ -1,40 +1,16 @@
 ---
-title: "Skills and Experience"
+title: "Experience"
 ---
 
 <!--# try two columns -->
 
-## Skills
+::: {#intro-heading}
+## Experience
 
--   proficient in R and RStudio
+I am a upcoming graduate of Macalester College with a degree in Environmental Studies and Mathematics, concentrating in Urban Sustainability. Currently, I work as a Climate Data Analyst at the Metropolitan Council of the Twin Cities, putting my multidisciplinary background to work developing data tools and environmental policy for the metropolitan region. I also channel my passion for the environment into activism with Sunrise Twin Cities, where I serve as a democratic representative to the national Sunrise movement and contribute as a lead researcher and writer to youth-led climate activism with national scale and local focus.
 
-    -   used for data visualization and app development
-
-    -   package proficiencies include tidyverse, shiny, quarto, sf, ggplot2 and plotly
-
-    -   see projects: \[212 project\] \[strategy planning tool\] \[ghg inventory\] \[155 projects\]
-
--   intermediate understanding of Python
-
-    -   used for mathematical modeling, data visualization and varied programming tasks
-
-    -   see projects: \[math capstone\] \[123 project\] \[alliaria\]
-
--   intermediate understanding of MATLAB
-
-    -   used for mathematical modeling
-
-    -   see projects: \[alliaria\]
-
--   basic understanding of C++
-
-    -   used for mathematical modeling
-
-    -   see projects: \[alliaria\]
-
--   intermediate understanding of ArcGIS Pro
-
--   intermediate understanding of Excel
+Recently, I was named as a SDSN Youth Local Pathways Fellow, joining a global group of young urban sustainability professionals in an internationally-recognized program to advance SDG 11 and build the global youth sustainability movement.
+:::
 
 ## Metropolitan Council
 
