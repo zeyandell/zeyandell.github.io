@@ -8,12 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: education.qmd
-        text: Education
-      - href: experience.qmd
-        text: Experience
       - href: projects.qmd
         text: Projects
+      - href: experience.qmd
+        text: Experience
+      - href: education.qmd
+        text: Education
+      - href: skills.qmd
+        text: Skills
       
 page-footer:
   left: |

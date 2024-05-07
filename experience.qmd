@@ -2,18 +2,117 @@
 title: "Experience"
 ---
 
-<!--# try two columns -->
+## Metropolitan Council
+::: {layout="[ 60, 40 ]"}
+::: {#first-column}
+**Climate Data Analyst Intern, Met Scholars Intern**
 
-::: {#intro-heading}
-## Experience
+May 2023 - ongoing
 
-I am a upcoming graduate of Macalester College with a degree in Environmental Studies and Mathematics, concentrating in Urban Sustainability. Currently, I work as a Climate Data Analyst at the Metropolitan Council of the Twin Cities, putting my multidisciplinary background to work developing data tools and environmental policy for the metropolitan region. I also channel my passion for the environment into activism with Sunrise Twin Cities, where I serve as a democratic representative to the national Sunrise movement and contribute as a lead researcher and writer to youth-led climate activism with national scale and local focus.
+-   Conducted varied research and policy projects involving sourcing and analyzing data, researching and drafting policy, and communicating complex data analysis processes to the general public
 
-Recently, I was named as a SDSN Youth Local Pathways Fellow, joining a global group of young urban sustainability professionals in an internationally-recognized program to advance SDG 11 and build the global youth sustainability movement.
+-   Authored the solid waste chapter of the 2024 Greenhouse Gas Emissions Inventory, modeling emissions for an 11-county region spanning both Minnesota and Wisconsin
 :::
 
-## Metropolitan Council
+::: {#second-column}
+![](metc_desk.jpg)
+:::
+::::
+-   Collaborated remotely with a multi-departmental team; quickly and efficiently solved programming and data issues; praised for problem solving skills and initiative
+
+-   Engaged in three months of weekly programming focused on equity with a diverse cohort of peers from a wide variety of backgrounds, gender and sexualities, and abilities
 
 ## Sunrise Twin Cities
 
-## Research at Macalester College
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+![](sunrise.png)
+:::
+
+::: {#second-column}
+**Hub Representative**
+
+Nov 2023 - ongoing
+
+-   Coordinate between national and local movement branches
+
+-   Research and draft transportation and housing policy for an ambitious St. Paul Green New Deal
+:::
+::::
+
+## Macalester Urbanists
+
+**Biking and Tactical Urbanism Team Lead**
+
+March 2024 - May 2024
+
+-   Ran bi-weekly meetings of a 5-person working group focused on biking infrastructure and tangible impacts
+
+-   Drafted and presented testimony on bicycle infrastructure at a St. Paul City Council meeting
+
+-   Co-created an ongoing plan for urbanist intervention in the Macalester-Groveland neighborhood
+
+## Macalester College
+
+::: {layout="[ 80, 20 ]"}
+::: {#first-column}
+**Research Assistant, Katharine Ordway Field Station**
+
+May 2022-August 2022
+
+-   Developed a computationally efficient spatial model for the distribution of garlic mustard accounting for varied distribution mechanisms and inter- and intra-species competition, translating work between 3 different coding languages to streamline model efficiency
+
+-   Identified and cataloged over 30 species of plant cover in over 100 plots
+
+-   Worked independently in a hybrid setting; managed time and project goals effectively
+:::
+
+::: {#second-column}
+![](ordway.jpg)
+:::
+::::
+
+## Flipside Afterschool
+
+**Coding Instructor**
+
+January 2023-May 2023
+
+-   Taught basic coding concepts to 15-20 students from 3rd-8th grade, twice a week
+
+-   Facilitated projects in Scratch for students of all levels
+
+-   Introduced students to Python language
+
+## Mathnasium of Sun Prairie
+
+:::{layout="[ 20, 80 ]"}
+:::{#first-column}
+![](https://www.mathnasium.com/storage/app/uploads/public/64e/667/3ed/64e6673edb34a596209098.jpg)
+:::
+:::{#second-column}
+**Math Instructor**
+
+April 2021- May 2022
+
+-   Assisted over 50 students from kindergarten to 12th grade with mathematics lessons and homework
+
+-   Taught essential math concepts from addition to geometry in an accessible and memorable way
+
+-   Kept track of student progress and struggles to plan for future lessons
+:::
+::::
+
+## The Young Shakespeare Players
+
+**Intern Director**
+
+June 2020-August 2020
+
+-   Planned and supervised daily rehearsals for 60 students ages 5-18, cumulating in 8 performances of the full text of Shakespeare's A Midsummer Night's Dream
+
+-   Supported actors of all ages and abilities in understanding, interpreting, and connecting to a 400-year-old text
+
+-   Solved logistical and scheduling problems in creative ways to ensure every actor felt supported and safe
+
+-   Maintained COVID safety without any incidents for the 3-month duration of the program

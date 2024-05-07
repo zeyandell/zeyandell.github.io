@@ -1,0 +1,15 @@
+---
+title: "Spatial model of garlic mustard growth"
+description: "Grid-based model simulating the spatial distribution of garlic mustard and interactions with competitors."
+image: garlic_mustard.jpg
+categories:
+  - Data
+  - Code
+about:
+  template: marquee
+  image: garlic_mustard.jpg
+---
+
+Garlic mustard, scientific name *Alliaria petiolata*, is a highly successful invasive plant in Minnesota. It grows in a biannual phase, with rosettes and adults growing in alternating years, and is a highly r-selected species. This modeling project, which is still ongoing, was undertaken as a research project at Macalester College in conjunction with field research on the success of garlic mustard and native species at Ordway Research Station.
+
+This project was initially coded in MATLAB, then moved to C++ to accomodate large datasets, with visualizations done in Python.

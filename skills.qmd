@@ -1,0 +1,35 @@
+---
+title: "Skills"
+---
+
+## Technical Skills
+
+-   proficient in R and RStudio
+
+    -   used for data visualization and app development
+
+    -   package proficiencies include tidyverse, shiny, quarto, sf, ggplot2 and plotly
+
+-   intermediate understanding of Python
+
+    -   used for mathematical modeling, data visualization and varied programming tasks
+
+-   intermediate understanding of MATLAB
+
+-   basic understanding of C++
+
+-   intermediate understanding of ArcGIS Pro
+
+-   intermediate understanding of Excel
+
+## Transferrable Skills
+
+-   Skilled at collaborating with and leading both in person and remote teams
+
+-   Comfortable conversing with a wide range of people about complex environmental topics. Developed while canvassing for Sunrise in both English and Spanish.
+
+-   Skilled at presenting in front of large groups of people.
+
+-   Familiar with national, Minnesota-specific, and Twin Cities policies and programs around climate mitigation and emissions reductions.
+
+-   Experienced researching policies and existing conditions related to climate, urban form, and equity.

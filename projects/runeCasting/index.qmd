@@ -1,0 +1,13 @@
+---
+title: "Rune Casting"
+description: "Python program randomly generating and drawing runes based on Norse runecasting methods."
+image: kenaz_runes.png
+categories:
+  - Code
+  - Design
+about:
+  template: marquee
+  image: kenaz_runes.png
+---
+
+This Python program uses tkinter, string-based L systems, and turtle to create an interface for Nordic runecasting. It was developed by myself, Amman Hussein, and Aaliyah Dick in 2020. The code can be found [here](https://github.com/zeyandell/kenazRuneCasting).

@@ -1,61 +1,66 @@
 ---
-title: "Education and Skills"
+title: "Education and Training"
 ---
+
+## SDSN Youth Local Pathways Fellow
+
+
+March 2024 - March 2025
+
+![](lpf_logo.png){width=300}
+
+Sustainable Development Solutions Network Youth educates young people about the Sustainable Development Goals and provides opportunities for them to pioneer innovative solutions to address the world's biggest challenges.
+
+The Local Pathways Fellowship is a global peer-to-peer learning network for early-career urban sustainability professionals, wherein fellows deepen their knowledge of urban sustainability solutions while engaging in a deep, iterative process to create a project proposal for the advancement of SDG 11 (Urban Sustainability).
+
+
 
 ## Macalester College
 
 St. Paul, MN
 
-B.A. in Mathematics and Environmental Studies (Urban Sustainability) \| Sept 2020 - May 2024
+B.A. in **Mathematics and Environmental Studies** (Urban Sustainability) \| Sept 2020 - May 2024
 
-Relevant Coursework: - \[copypaste\]
+At Macalester, I gained the breadth of a liberal arts education while diving deep into my passions for mathematics and environmental studies. In addition to coursework, I was able to be involved in extracurricular activities ranging from advocacy and organizing (detailed under Experience) to starring in a production of Sarah Ruhl's *Eurydice* and running tabletop roleplaying games (ask me about how TTRPGs taught me invaluable transferrable skills!).
 
-Capstone: Analyzing bias in transportation systems using agent-based modeling \[link to project page\]
+### Coursework:
+
+**Environmental Studies**: Principles of Sustainable Design, US Environmental History, US Urban Environmental History, Ecology and the Environment, Environmental Classics, Environmental Politics and Policy, Earth's Climate Systems, Environmental Leadership (Capstone)
+
+**Urban Studies**: Art Science and Design in Our City, US Urban Environmental History, Human Geography of Global Issues, Urban Geography
+
+**Mathematics/Statistics/Computer Science**: Calculus I, II and III, Linear Algebra, Differential Equations, Discrete Math, Intro to Statistical Modeling, Core Concepts in Computer Science, Intermediate Data Science, Probability, Computational Linear Algebra, Mathematical Modeling (Capstone)
+
+**Other**: Advanced Oral and Written Expression in Spanish, Principles of Physics, Principles of Economics
+
+Mathematics Capstone: [Analyzing bias in transportation systems using agent-based modeling](projects/transportation_model/index.qmd)
+
+### Honors:
+
+Dewitt Wallace Distinguished Scholarship
+
+National Merit Scholarship
+
+Phi Beta Kappa member
+
+Environmental Studies Justice Award
 
 ## DIS Study Abroad in Copenhagen
 
+::: {layout="[ 40, 60 ]"}
+::: {#first-column}
+![](denmark_building.png)
+:::
+
+::: {#second-column}
 Copenhagen, DK
 
 August - December 2022
 
-\[check master resume overview\]
+In this study abroad program, I immersed myself in Danish culture while learning about sustainability and urban design in one of the most bikeable cities in the world.
 
-Relevant Coursework: - Sustainable Development in Northern Europe - Geographic Information Systems: Applied Climate Change Cases - Principles of Urban Livability - Sustainable by Design
+**Coursework:**
 
-## SDSN Youth Local Pathways Fellowship
-
-March 2024 - March 2025
-
-\[copy from website\]
-
-## Skills
-
--   proficient in R and RStudio
-
-    -   used for data visualization and app development
-
-    -   package proficiencies include tidyverse, shiny, quarto, sf, ggplot2 and plotly
-
-    -   see projects: \[212 project\] \[strategy planning tool\] \[ghg inventory\] \[155 projects\]
-
--   intermediate understanding of Python
-
-    -   used for mathematical modeling, data visualization and varied programming tasks
-
-    -   see projects: \[math capstone\] \[123 project\] \[alliaria\]
-
--   intermediate understanding of MATLAB
-
-    -   used for mathematical modeling
-
-    -   see projects: \[alliaria\]
-
--   basic understanding of C++
-
-    -   used for mathematical modeling
-
-    -   see projects: \[alliaria\]
-
--   intermediate understanding of ArcGIS Pro
-
--   intermediate understanding of Excel
+Sustainable Development in Northern Europe, Geographic Information Systems: Applied Climate Change Cases, Principles of Urban Livability, Sustainable by Design, Danish Language and Culture
+:::
+::::
