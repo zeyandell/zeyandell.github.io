@@ -1,101 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Zoey Yandell",
+    "objectID": "projects/runeCasting/index.html",
+    "href": "projects/runeCasting/index.html",
+    "title": "Rune Casting",
     "section": "",
-    "text": "I am an urban sustainability professional and data analyst working for climate solutions on a local and regional level.\nI believe that cities hold massive potential for addressing the climate crisis, as well as high levels of vulnerability, and that the coming era will demand flexibility, ingenuity, and dedication as we reimagine what city life can look like. With a background in environmental studies and data science, I am excited to join the next generation of urban sustainability leaders and find a path forward into the Anthropocene.\nAs a data scientist, I understand the importance of grounding sustainability initiatives in data of all different types. I am passionate about blending quantitative data with deep community engagement. Environmental harms and hazards affect real people in our cities, and we need all of our voices at the table to design solutions that help all of us.\nOutside of work, you can find me juggling too many tabletop roleplaying games and foraging in local parks."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nE. Washington Ave Redesign\n\n\n\nDesign\n\n\nUrbanism\n\n\n\nA pedestrian-focused redesign of a busy street.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGreenhouse Gas Inventory\n\n\n\nData\n\n\nEnvironmental Communication\n\n\nMet Council\n\n\n\nAn inventory of greenhouse gas emissions in the Metropolitan Council region and beyond.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGreenhouse Gas Strategy Planning Tool\n\n\n\nData\n\n\nEnvironmental Communication\n\n\nEnvironmental Policy\n\n\nMet Council\n\n\n\nA tool for policymakers projecting the potential impacts of greenhouse gas reduction strategies.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMacGPT: Agricultural Water Preservation Act\n\n\n\nEnvironmental Policy\n\n\n\nPolicy design challenge focused on reducing irrigation runoff and overuse in Minnesota farms.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManmade Wilderness: Early Twin Cities Parks Development and Nature in the Urban Landscape\n\n\n\nUrbanism\n\n\nDesign\n\n\nEnvironmental Communication\n\n\n\nA research paper investigating the roots of Twin Cities park development and ideologies of nature in cities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRune Casting\n\n\n\nCode\n\n\nDesign\n\n\n\nPython program randomly generating and drawing runes based on Norse runecasting methods.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial model of garlic mustard growth\n\n\n\nData\n\n\nCode\n\n\n\nGrid-based model simulating the spatial distribution of garlic mustard and interactions with competitors.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThat’s How I Roll: The impact of bias in transportation mode choice\n\n\n\nData\n\n\nUrbanism\n\n\nCode\n\n\n\nAgent-based model simulating interpersonal bias in mode choice within a transportation network.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWater I and II\n\n\n\nDesign\n\n\nEnvironmental Communication\n\n\n\nTwo compositions for piano and accompanying art pieces exploring our relationship with water.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Zoey Yandell",
-    "section": "",
-    "text": "Macalester College | St. Paul MN\nB.A. in Mathematics and Environmental Studies (Urban Sustainability) | Sept 2020 - May 2024"
-  },
-  {
-    "objectID": "experience.html",
-    "href": "experience.html",
-    "title": "Experience",
-    "section": "",
-    "text": "Climate Data Analyst Intern, Met Scholars Intern\nMay 2023 - ongoing\n\nConducted varied research and policy projects involving sourcing and analyzing data, researching and drafting policy, and communicating complex data analysis processes to the general public\nAuthored the solid waste chapter of the 2024 Greenhouse Gas Emissions Inventory, modeling emissions for an 11-county region spanning both Minnesota and Wisconsin\n\n\n\n\n\n\n\n\nCollaborated remotely with a multi-departmental team; quickly and efficiently solved programming and data issues; praised for problem solving skills and initiative\nEngaged in three months of weekly programming focused on equity with a diverse cohort of peers from a wide variety of backgrounds, gender and sexualities, and abilities"
-  },
-  {
-    "objectID": "experience.html#skills",
-    "href": "experience.html#skills",
-    "title": "Skills and Experience",
-    "section": "",
-    "text": "proficient in R and RStudio\n\nused for data visualization and app development\npackage proficiencies include tidyverse, shiny, quarto, sf, ggplot2 and plotly\nsee projects: [212 project] [strategy planning tool] [ghg inventory] [155 projects]\n\nintermediate understanding of Python\n\nused for mathematical modeling, data visualization and varied programming tasks\nsee projects: [math capstone] [123 project] [alliaria]\n\nintermediate understanding of MATLAB\n\nused for mathematical modeling\nsee projects: [alliaria]\n\nbasic understanding of C++\n\nused for mathematical modeling\nsee projects: [alliaria]\n\nintermediate understanding of ArcGIS Pro\nintermediate understanding of Excel"
-  },
-  {
-    "objectID": "experience.html#metropolitan-council",
-    "href": "experience.html#metropolitan-council",
-    "title": "Experience",
-    "section": "",
-    "text": "Climate Data Analyst Intern, Met Scholars Intern\nMay 2023 - ongoing\n\nConducted varied research and policy projects involving sourcing and analyzing data, researching and drafting policy, and communicating complex data analysis processes to the general public\nAuthored the solid waste chapter of the 2024 Greenhouse Gas Emissions Inventory, modeling emissions for an 11-county region spanning both Minnesota and Wisconsin\n\n\n\n\n\n\n\n\nCollaborated remotely with a multi-departmental team; quickly and efficiently solved programming and data issues; praised for problem solving skills and initiative\nEngaged in three months of weekly programming focused on equity with a diverse cohort of peers from a wide variety of backgrounds, gender and sexualities, and abilities"
-  },
-  {
-    "objectID": "experience.html#sunrise-twin-cities",
-    "href": "experience.html#sunrise-twin-cities",
-    "title": "Experience",
-    "section": "Sunrise Twin Cities",
-    "text": "Sunrise Twin Cities\n\n\n\n\n\n\nHub Representative\nNov 2023 - ongoing\n\nCoordinate between national and local movement branches\nResearch and draft transportation and housing policy for an ambitious St. Paul Green New Deal"
-  },
-  {
-    "objectID": "experience.html#research-at-macalester-college",
-    "href": "experience.html#research-at-macalester-college",
-    "title": "Experience",
-    "section": "Research at Macalester College",
-    "text": "Research at Macalester College"
-  },
-  {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education and Training",
-    "section": "",
-    "text": "March 2024 - March 2025\n\nSustainable Development Solutions Network Youth educates young people about the Sustainable Development Goals and provides opportunities for them to pioneer innovative solutions to address the world’s biggest challenges.\nThe Local Pathways Fellowship is a global peer-to-peer learning network for early-career urban sustainability professionals, wherein fellows deepen their knowledge of urban sustainability solutions while engaging in a deep, iterative process to create a project proposal for the advancement of SDG 11 (Urban Sustainability)."
-  },
-  {
-    "objectID": "education.html#macalester-college",
-    "href": "education.html#macalester-college",
-    "title": "Education and Training",
-    "section": "Macalester College",
-    "text": "Macalester College\nSt. Paul, MN\nB.A. in Mathematics and Environmental Studies (Urban Sustainability) | Sept 2020 - May 2024\nAt Macalester, I gained the breadth of a liberal arts education while diving deep into my passions for mathematics and environmental studies. In addition to coursework, I was able to be involved in extracurricular activities ranging from advocacy and organizing (detailed under Experience) to starring in a production of Sarah Ruhl’s Eurydice and running tabletop roleplaying games (ask me about how TTRPGs taught me invaluable transferrable skills!).\n\nCoursework:\nEnvironmental Studies: Principles of Sustainable Design, US Environmental History, US Urban Environmental History, Ecology and the Environment, Environmental Classics, Environmental Politics and Policy, Earth’s Climate Systems, Environmental Leadership (Capstone)\nUrban Studies: Art Science and Design in Our City, US Urban Environmental History, Human Geography of Global Issues, Urban Geography\nMathematics/Statistics/Computer Science: Calculus I, II and III, Linear Algebra, Differential Equations, Discrete Math, Intro to Statistical Modeling, Core Concepts in Computer Science, Intermediate Data Science, Probability, Computational Linear Algebra, Mathematical Modeling (Capstone)\nOther: Advanced Oral and Written Expression in Spanish, Principles of Physics, Principles of Economics\nMathematics Capstone: Analyzing bias in transportation systems using agent-based modeling\n\n\nHonors:\nDewitt Wallace Distinguished Scholarship\nNational Merit Scholarship\nPhi Beta Kappa member\nEnvironmental Studies Justice Award"
-  },
-  {
-    "objectID": "education.html#dis-study-abroad-in-copenhagen",
-    "href": "education.html#dis-study-abroad-in-copenhagen",
-    "title": "Education and Training",
-    "section": "DIS Study Abroad in Copenhagen",
-    "text": "DIS Study Abroad in Copenhagen\n\n\n\n\n\n\nCopenhagen, DK\nAugust - December 2022\nIn this study abroad program, I immersed myself in Danish culture while learning about sustainability and urban design in one of the most bikeable cities in the world.\nCoursework:\nSustainable Development in Northern Europe, Geographic Information Systems: Applied Climate Change Cases, Principles of Urban Livability, Sustainable by Design, Danish Language and Culture"
-  },
-  {
-    "objectID": "education.html#sdsn-youth-local-pathways-fellowship",
-    "href": "education.html#sdsn-youth-local-pathways-fellowship",
-    "title": "Education and Skills",
-    "section": "SDSN Youth Local Pathways Fellowship",
-    "text": "SDSN Youth Local Pathways Fellowship\nMarch 2024 - March 2025\n[copy from website]"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Zoey Yandell",
-    "section": "",
-    "text": "I am a upcoming graduate of Macalester College with a degree in Environmental Studies and Mathematics, concentrating in Urban Sustainability. Currently, I work as a Climate Data Analyst at the Metropolitan Council of the Twin Cities, putting my multidisciplinary background to work developing data tools and environmental policy for the metropolitan region. I also channel my passion for the environment into activism with Sunrise Twin Cities, where I serve as a democratic representative to the national Sunrise movement and contribute as a lead researcher and writer to youth-led climate activism with national scale and local focus.\nRecently, I was named as a SDSN Youth Local Pathways Fellow, joining a global group of young urban sustainability professionals in an internationally-recognized program to advance SDG 11 and build the global youth sustainability movement.\nOutside of work, you can find me juggling too many tabletop roleplaying games and foraging in local parks."
-  },
-  {
-    "objectID": "education.html#skills",
-    "href": "education.html#skills",
-    "title": "Education and Skills",
-    "section": "Skills",
-    "text": "Skills\n\nproficient in R and RStudio\n\nused for data visualization and app development\npackage proficiencies include tidyverse, shiny, quarto, sf, ggplot2 and plotly\nsee projects: [212 project] [strategy planning tool] [ghg inventory] [155 projects]\n\nintermediate understanding of Python\n\nused for mathematical modeling, data visualization and varied programming tasks\nsee projects: [math capstone] [123 project] [alliaria]\n\nintermediate understanding of MATLAB\n\nused for mathematical modeling\nsee projects: [alliaria]\n\nbasic understanding of C++\n\nused for mathematical modeling\nsee projects: [alliaria]\n\nintermediate understanding of ArcGIS Pro\nintermediate understanding of Excel"
+    "text": "This Python program uses tkinter, string-based L systems, and turtle to create an interface for Nordic runecasting. It was developed by myself, Amman Hussein, and Aaliyah Dick in 2020. The code can be found here."
   },
   {
     "objectID": "projects/e_wash_redesign/index.html",
@@ -105,6 +14,20 @@
     "text": "This proposal for design interventions on East Washington in Madison, WI uses an analysis of Jan Gehl’s principles of livability, the conditions of the street and neighborhood, and potential stakeholders to explore opportunities for improving pedestrian experience and safety. It was completed as part of Bettina Werner’s Urban Livability class at DIS Copenhagen.\n                            \nTo download these slides in their original format, click here."
   },
   {
+    "objectID": "projects/ghg_inventory/index.html",
+    "href": "projects/ghg_inventory/index.html",
+    "title": "Greenhouse Gas Inventory",
+    "section": "",
+    "text": "The 2024 Met Council Greenhouse Gas Inventory was conducted as part of an EPA Climate Pollution Reduction Grant awarded to the Council. The first step in this ongoing process was to inventory greenhouse gas emissions from energy, transportation, and waste sectors for the 11-county grant region. The Priority Climate Action Plan, published in March 2024, includes a detailed report of this inventory’s results and suggested priority actions for reducing emissions in the included region.\nAs a part of the data team for this project, I developed the solid waste sector of this inventory, from sourcing data to conducting quality analysis of the results. I also wrote the solid waste chapters of a more detailed report that can be found here. The project was led by Joel Huting, Peter Wilfahrt, and LisaBeth Barajas."
+  },
+  {
+    "objectID": "projects/us_urban/index.html",
+    "href": "projects/us_urban/index.html",
+    "title": "Manmade Wilderness: Early Twin Cities Parks Development and Nature in the Urban Landscape",
+    "section": "",
+    "text": "As part of Chris Wells’ US Urban Environmental History course, I wrote this paper investigating the origins of Twin Cities parks, with an eye towards the way ideologies about nature revealed themselves in the design and planning of the parks. Through extensive primary research, I traced the ways that parks were designed to give a tightly controlled impression of “nature” and thus relegate urbanites’ relationship with nature to a few specific areas within the cities. This paper builds on and localizes an ongoing discussion about parks design movements and perceptions of nature in cities.\nRead the paper here."
+  },
+  {
     "objectID": "projects/artScienceDesign_water/index.html",
     "href": "projects/artScienceDesign_water/index.html",
     "title": "Water I and II",
@@ -112,11 +35,11 @@
     "text": "The Water series is a set of two brief compositions for the piano, written and played by me, exploring my associations with water throughout my life. Water I: Snowmelt draws on the feeling of early spring, when snow melts and runs in rivulets down steep inclines, inspired by visualizations of watershed flow and my own memories of springtime. When I listen to it, I think of the minnows darting around my feet during summer trips to Madeline Island, or of the sunlight glinting off melting snowdrifts in my backyard.\nWater II: Sunrise invokes the water of a lake as the sun rising over it paints it in a thousand different colors, reshaping the landscape with each passing moment. This piece was inspired by kayaking and canoeing with my family on lakes Mendota and Monona, and the still moments when we would lay our paddles down and just sit looking across the water, overtaken by the scale and beauty of it."
   },
   {
-    "objectID": "experience.html#experience",
-    "href": "experience.html#experience",
-    "title": "Experience",
+    "objectID": "projects/sp_tool/index.html",
+    "href": "projects/sp_tool/index.html",
+    "title": "Greenhouse Gas Strategy Planning Tool",
     "section": "",
-    "text": "I am a upcoming graduate of Macalester College with a degree in Environmental Studies and Mathematics, concentrating in Urban Sustainability. Currently, I work as a Climate Data Analyst at the Metropolitan Council of the Twin Cities, putting my multidisciplinary background to work developing data tools and environmental policy for the metropolitan region. I also channel my passion for the environment into activism with Sunrise Twin Cities, where I serve as a democratic representative to the national Sunrise movement and contribute as a lead researcher and writer to youth-led climate activism with national scale and local focus.\nRecently, I was named as a SDSN Youth Local Pathways Fellow, joining a global group of young urban sustainability professionals in an internationally-recognized program to advance SDG 11 and build the global youth sustainability movement."
+    "text": "This tool projects greenhouse gas emissions out to 2040 for municipalities in the Twin Cities metropolitan area and estimates the impact of greenhouse gas reduction strategies ranging from increasing transit-oriented development to improving energy efficiency. It was designed to assist local policymakers with climate planning and goal-setting.\nThis tool was designed by a team of researchers at the Metropolitan Council over the course of several years. I joined the team in 2023 and assisted with troubleshooting, fixed data errors, and wrote high-level documentation of our process for the “Methods” page. More details can be found in the tool itself, and in the github repository once it is publically available."
   },
   {
     "objectID": "projects/mac_gpt/index.html",
@@ -133,32 +56,53 @@
     "text": "Policy Memo\n\nMac GPT: Generating the Policy for TomorrowTeam 9: Farmer’s Assurance Minnesota’s Agricultural Water Preservation ActDEVELOPMENT OF A WATER PROTECTION PLAN (WWP)Under this policy, farmers in the state of Minnesota will be required to create and report a Water Protection Plan (WPP) analyzing their irrigation, nutrient management, and conservation strategies. The policy does not require compliance with any specific standards, but hopes to incentivize a shift to more sustainable behavior based on education and data availability. Farmers are responsible for reporting plans to their local county officials, who will be enforcing compliance in conjunction with the state. Resources will be made available through partnerships with state Extension agencies and local governments to incentivize farmers to adjust farming practices so that they are cost-effective and help decrease water consumption and contamination. More efficient irrigation and fertilizer plans will reduce costs to farmers.MORE THAN 70% OF NITRATE POLLUTION COMES FROM FERTILIZERSBased on the data from Minnesota Center of Environmental Advocacy, 40% of lakes, rivers and streams are polluted, and the number is growing. More than 70% of nitrate pollutants, a major pollutant in Minnesota waters, come from cropland. Agricultural runoff plays an important role in state water quality. This not only affects the clean water that people can access, but it further negatively influences the whole ecosystem in the state, the food system, and even people’s health conditions. To ensure the state citizens’ health and also reach the Sustainable Development Goals from the United Nations for global people, the state must help solve this water quality issue. MONITORING OF IRRIGATION TECHNOLOGYPart (1) of the WPP requires a plan for irrigation and water management, including data and estimates for water use. This section includes an analysis of currently used irrigation technologies to prompt reflection on the most efficient water use strategy given soil, plant needs, and growing conditions. Water use projections for a non-drought scenario should be in line with current Minnesota regulations on aquifer use.ADOPTION OF A NUTRIENT MANAGEMENT PLANPart (2) of the WPP requires a Nutrient Management Plan similar to the Clean Water Act for Concentrated Animal Feeding Operations (CAFOs). The requirement of Nutrient Management Plans, even without associated pollution reduction requirements, has been proven to decrease short-term nutrient pollution in Wisconsin, a state with a similar agricultural and ecological system to Minnesota. A Nutrient Management Plan will include yield goals, regular soil testing, nutrient input projections, and compliance with nutrient limits according to state and federal laws. For reference, see WI guidelines on the creation of Nutrient Management Plans.MITIGATION OF RUNOFF WATERPart (3) of the WPP provides farmers with resources to implement additional conservation strategies that may mitigate pollution runoff, including the addition of a forested “buffer zone” or a prairie strip to filter water and reduce runoff. While these practices are optional within this policy, farmers have the opportunity to access resources about the benefits of conservation strategies and funding to help implement them if so desired.THE WWP REDUCES COSTS FOR FARMERS AND FOR THE STATEWe anticipate that by reducing the amount of runoff water, ecosystems in the State of Minnesota will thrive since there will be a reduction in nutrient-rich pesticides entering water systems. This benefits communities that heavily rely on water, such as Indigenous communities that use water systems to grow wild rice. By reducing the amount of pesticides in the water by addressing the source, the state will spend less funds on water purification. Additionally, using estimates taken from past implemented policies, we project that farmers will save money by reducing costly inputs, such as fertilizer and chemical pesticides."
   },
   {
-    "objectID": "projects/ghg_inventory/index.html",
-    "href": "projects/ghg_inventory/index.html",
-    "title": "Greenhouse Gas Inventory",
-    "section": "",
-    "text": "The 2024 Met Council Greenhouse Gas Inventory was conducted as part of an EPA Climate Pollution Reduction Grant awarded to the Council. The first step in this ongoing process was to inventory greenhouse gas emissions from energy, transportation, and waste sectors for the 11-county grant region. The Priority Climate Action Plan, published in March 2024, includes a detailed report of this inventory’s results and suggested priority actions for reducing emissions in the included region.\nAs a part of the data team for this project, I developed the solid waste sector of this inventory, from sourcing data to conducting quality analysis of the results. I also wrote the solid waste chapters of a more detailed report that can be found here. The project was led by Joel Huting, Peter Wilfahrt, and LisaBeth Barajas."
-  },
-  {
-    "objectID": "projects/sp_tool/index.html",
-    "href": "projects/sp_tool/index.html",
-    "title": "Greenhouse Gas Strategy Planning Tool",
-    "section": "",
-    "text": "This tool projects greenhouse gas emissions out to 2040 for municipalities in the Twin Cities metropolitan area and estimates the impact of greenhouse gas reduction strategies ranging from increasing transit-oriented development to improving energy efficiency. It was designed to assist local policymakers with climate planning and goal-setting.\nThis tool was designed by a team of researchers at the Metropolitan Council over the course of several years. I joined the team in 2023 and assisted with troubleshooting, fixed data errors, and wrote high-level documentation of our process for the “Methods” page. More details can be found in the tool itself, and in the github repository once it is publically available."
-  },
-  {
-    "objectID": "projects/us_urban/index.html",
-    "href": "projects/us_urban/index.html",
-    "title": "Manmade Wilderness: Early Twin Cities Parks Development and Nature in the Urban Landscape",
-    "section": "",
-    "text": "As part of Chris Wells’ US Urban Environmental History course, I wrote this paper investigating the origins of Twin Cities parks, with an eye towards the way ideologies about nature revealed themselves in the design and planning of the parks. Through extensive primary research, I traced the ways that parks were designed to give a tightly controlled impression of “nature” and thus relegate urbanites’ relationship with nature to a few specific areas within the cities. This paper builds on and localizes an ongoing discussion about parks design movements and perceptions of nature in cities.\nRead the paper here."
-  },
-  {
     "objectID": "projects/transportation_model/index.html",
     "href": "projects/transportation_model/index.html",
     "title": "That’s How I Roll: The impact of bias in transportation mode choice",
     "section": "",
     "text": "In this capstone project, I used agent-based modeling in Python to simulate human patterns of movement within a transportation system, focusing on mode choice between private vehicles and public transit. I added a coefficient of bias to investigate the emergent behavior of the system when transit mode choices were influenced by the proportions of other riders, finding that interpersonal bias in this model can exacerbate exisiting disparities between groups of travelers.\nThe full report on this project can be read here."
+  },
+  {
+    "objectID": "projects/alliaria/index.html",
+    "href": "projects/alliaria/index.html",
+    "title": "Spatial model of garlic mustard growth",
+    "section": "",
+    "text": "Garlic mustard, scientific name Alliaria petiolata, is a highly successful invasive plant in Minnesota. It grows in a biannual phase, with rosettes and adults growing in alternating years, and is a highly r-selected species. This modeling project, which is still ongoing, was undertaken as a research project at Macalester College in conjunction with field research on the success of garlic mustard and native species at Ordway Research Station.\nThis project was initially coded in MATLAB, then moved to C++ to accomodate large datasets, with visualizations done in Python."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nE. Washington Ave Redesign\n\n\n\nDesign\n\n\nUrbanism\n\n\n\nA pedestrian-focused redesign of a busy street.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGreenhouse Gas Inventory\n\n\n\nData\n\n\nEnvironmental Communication\n\n\nMet Council\n\n\n\nAn inventory of greenhouse gas emissions in the Metropolitan Council region and beyond.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGreenhouse Gas Strategy Planning Tool\n\n\n\nData\n\n\nEnvironmental Communication\n\n\nEnvironmental Policy\n\n\nMet Council\n\n\n\nA tool for policymakers projecting the potential impacts of greenhouse gas reduction strategies.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMacGPT: Agricultural Water Preservation Act\n\n\n\nEnvironmental Policy\n\n\n\nPolicy design challenge focused on reducing irrigation runoff and overuse in Minnesota farms.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManmade Wilderness: Early Twin Cities Parks Development and Nature in the Urban Landscape\n\n\n\nUrbanism\n\n\nDesign\n\n\nEnvironmental Communication\n\n\n\nA research paper investigating the roots of Twin Cities park development and ideologies of nature in cities.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRune Casting\n\n\n\nCode\n\n\nDesign\n\n\n\nPython program randomly generating and drawing runes based on Norse runecasting methods.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpatial model of garlic mustard growth\n\n\n\nData\n\n\nCode\n\n\n\nGrid-based model simulating the spatial distribution of garlic mustard and interactions with competitors.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThat’s How I Roll: The impact of bias in transportation mode choice\n\n\n\nData\n\n\nUrbanism\n\n\nCode\n\n\n\nAgent-based model simulating interpersonal bias in mode choice within a transportation network.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWater I and II\n\n\n\nDesign\n\n\nEnvironmental Communication\n\n\n\nTwo compositions for piano and accompanying art pieces exploring our relationship with water.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zoey Yandell",
+    "section": "",
+    "text": "I am an urban sustainability professional and data analyst working for climate solutions on a local and regional level.\nI believe that cities hold massive potential for addressing the climate crisis, as well as high levels of vulnerability, and that the coming era will demand flexibility, ingenuity, and dedication as we reimagine what city life can look like. With a background in environmental studies and data science, I am excited to join the next generation of urban sustainability leaders and find a path forward into the Anthropocene.\nAs a data scientist, I understand the importance of grounding sustainability initiatives in data of all different types. I am passionate about blending quantitative data with deep community engagement. Environmental harms and hazards affect real people in our cities, and we need all of our voices at the table to design solutions that help all of us.\nOutside of work, you can find me juggling too many tabletop roleplaying games and foraging in local parks."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Climate Data Analyst Intern, Met Scholars Intern\nMay 2023 - ongoing\n\nConducted varied research and policy projects involving sourcing and analyzing data, researching and drafting policy, and communicating complex data analysis processes to the general public\nAuthored the solid waste chapter of the 2024 Greenhouse Gas Emissions Inventory, modeling emissions for an 11-county region spanning both Minnesota and Wisconsin\n\n\n\n\n\n\n\n\nCollaborated remotely with a multi-departmental team; quickly and efficiently solved programming and data issues; praised for problem solving skills and initiative\nEngaged in three months of weekly programming focused on equity with a diverse cohort of peers from a wide variety of backgrounds, gender and sexualities, and abilities"
+  },
+  {
+    "objectID": "experience.html#metropolitan-council",
+    "href": "experience.html#metropolitan-council",
+    "title": "Experience",
+    "section": "",
+    "text": "Climate Data Analyst Intern, Met Scholars Intern\nMay 2023 - ongoing\n\nConducted varied research and policy projects involving sourcing and analyzing data, researching and drafting policy, and communicating complex data analysis processes to the general public\nAuthored the solid waste chapter of the 2024 Greenhouse Gas Emissions Inventory, modeling emissions for an 11-county region spanning both Minnesota and Wisconsin\n\n\n\n\n\n\n\n\nCollaborated remotely with a multi-departmental team; quickly and efficiently solved programming and data issues; praised for problem solving skills and initiative\nEngaged in three months of weekly programming focused on equity with a diverse cohort of peers from a wide variety of backgrounds, gender and sexualities, and abilities"
+  },
+  {
+    "objectID": "experience.html#sunrise-twin-cities",
+    "href": "experience.html#sunrise-twin-cities",
+    "title": "Experience",
+    "section": "Sunrise Twin Cities",
+    "text": "Sunrise Twin Cities\n\n\n\n\n\n\nHub Representative\nNov 2023 - ongoing\n\nCoordinate between national and local movement branches\nResearch and draft transportation and housing policy for an ambitious St. Paul Green New Deal"
   },
   {
     "objectID": "experience.html#macalester-urbanists",
@@ -196,18 +140,11 @@
     "text": "The Young Shakespeare Players\nIntern Director\nJune 2020-August 2020\n\nPlanned and supervised daily rehearsals for 60 students ages 5-18, cumulating in 8 performances of the full text of Shakespeare’s A Midsummer Night’s Dream\nSupported actors of all ages and abilities in understanding, interpreting, and connecting to a 400-year-old text\nSolved logistical and scheduling problems in creative ways to ensure every actor felt supported and safe\nMaintained COVID safety without any incidents for the 3-month duration of the program"
   },
   {
-    "objectID": "projects/runeCasting/index.html",
-    "href": "projects/runeCasting/index.html",
-    "title": "Rune Casting",
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education and Training",
     "section": "",
-    "text": "This Python program uses tkinter, string-based L systems, and turtle to create an interface for Nordic runecasting. It was developed by myself, Amman Hussein, and Aaliyah Dick in 2020. The code can be found here."
-  },
-  {
-    "objectID": "projects/alliaria/index.html",
-    "href": "projects/alliaria/index.html",
-    "title": "Spatial model of garlic mustard growth",
-    "section": "",
-    "text": "Garlic mustard, scientific name Alliaria petiolata, is a highly successful invasive plant in Minnesota. It grows in a biannual phase, with rosettes and adults growing in alternating years, and is a highly r-selected species. This modeling project, which is still ongoing, was undertaken as a research project at Macalester College in conjunction with field research on the success of garlic mustard and native species at Ordway Research Station.\nThis project was initially coded in MATLAB, then moved to C++ to accomodate large datasets, with visualizations done in Python."
+    "text": "March 2024 - March 2025\n\nSustainable Development Solutions Network Youth educates young people about the Sustainable Development Goals and provides opportunities for them to pioneer innovative solutions to address the world’s biggest challenges.\nThe Local Pathways Fellowship is a global peer-to-peer learning network for early-career urban sustainability professionals, wherein fellows deepen their knowledge of urban sustainability solutions while engaging in a deep, iterative process to create a project proposal for the advancement of SDG 11 (Urban Sustainability)."
   },
   {
     "objectID": "education.html#sdsn-youth-local-pathways-fellow",
@@ -215,6 +152,20 @@
     "title": "Education and Training",
     "section": "",
     "text": "March 2024 - March 2025\n\nSustainable Development Solutions Network Youth educates young people about the Sustainable Development Goals and provides opportunities for them to pioneer innovative solutions to address the world’s biggest challenges.\nThe Local Pathways Fellowship is a global peer-to-peer learning network for early-career urban sustainability professionals, wherein fellows deepen their knowledge of urban sustainability solutions while engaging in a deep, iterative process to create a project proposal for the advancement of SDG 11 (Urban Sustainability)."
+  },
+  {
+    "objectID": "education.html#macalester-college",
+    "href": "education.html#macalester-college",
+    "title": "Education and Training",
+    "section": "Macalester College",
+    "text": "Macalester College\nSt. Paul, MN\nB.A. in Mathematics and Environmental Studies (Urban Sustainability) | Sept 2020 - May 2024\nAt Macalester, I gained the breadth of a liberal arts education while diving deep into my passions for mathematics and environmental studies. In addition to coursework, I was able to be involved in extracurricular activities ranging from advocacy and organizing (detailed under Experience) to starring in a production of Sarah Ruhl’s Eurydice and running tabletop roleplaying games (ask me about how TTRPGs taught me invaluable transferrable skills!).\n\nCoursework:\nEnvironmental Studies: Principles of Sustainable Design, US Environmental History, US Urban Environmental History, Ecology and the Environment, Environmental Classics, Environmental Politics and Policy, Earth’s Climate Systems, Environmental Leadership (Capstone)\nUrban Studies: Art Science and Design in Our City, US Urban Environmental History, Human Geography of Global Issues, Urban Geography\nMathematics/Statistics/Computer Science: Calculus I, II and III, Linear Algebra, Differential Equations, Discrete Math, Intro to Statistical Modeling, Core Concepts in Computer Science, Intermediate Data Science, Probability, Computational Linear Algebra, Mathematical Modeling (Capstone)\nOther: Advanced Oral and Written Expression in Spanish, Principles of Physics, Principles of Economics\nMathematics Capstone: Analyzing bias in transportation systems using agent-based modeling\n\n\nHonors:\nDewitt Wallace Distinguished Scholarship\nNational Merit Scholarship\nPhi Beta Kappa member\nEnvironmental Studies Justice Award"
+  },
+  {
+    "objectID": "education.html#dis-study-abroad-in-copenhagen",
+    "href": "education.html#dis-study-abroad-in-copenhagen",
+    "title": "Education and Training",
+    "section": "DIS Study Abroad in Copenhagen",
+    "text": "DIS Study Abroad in Copenhagen\n\n\n\n\n\n\nCopenhagen, DK\nAugust - December 2022\nIn this study abroad program, I immersed myself in Danish culture while learning about sustainability and urban design in one of the most bikeable cities in the world.\nCoursework:\nSustainable Development in Northern Europe, Geographic Information Systems: Applied Climate Change Cases, Principles of Urban Livability, Sustainable by Design, Danish Language and Culture"
   },
   {
     "objectID": "skills.html",
