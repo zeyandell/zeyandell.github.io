@@ -2,7 +2,8 @@
 title: "Experience"
 ---
 
-## Metropolitan Council
+## Metropolitan Council of the Twin Cities
+
 ::: {layout="[ 60, 40 ]"}
 ::: {#first-column}
 **Climate Data Analyst Intern, Met Scholars Intern**
@@ -17,7 +18,8 @@ May 2023 - ongoing
 ::: {#second-column}
 ![](metc_desk.jpg)
 :::
-::::
+:::
+
 -   Collaborated remotely with a multi-departmental team; quickly and efficiently solved programming and data issues; praised for problem solving skills and initiative
 
 -   Engaged in three months of weekly programming focused on equity with a diverse cohort of peers from a wide variety of backgrounds, gender and sexualities, and abilities
@@ -25,20 +27,26 @@ May 2023 - ongoing
 ## Sunrise Twin Cities
 
 ::: {layout="[ 40, 60 ]"}
-::: {#first-column}
-![](sunrise.png)
-:::
+<div>
 
-::: {#second-column}
+![](sunrise.png)
+
+</div>
+
+<div>
+
 **Hub Representative**
 
 Nov 2023 - ongoing
 
--   Coordinate between national and local movement branches
+-   Coordinated between national and local movement branches
 
--   Research and draft transportation and housing policy for an ambitious St. Paul Green New Deal
+-   Researched and drafted transportation and housing policy for a St. Paul Green New Deal
+
+-   Advocated for equitable and climate-forward change in the Twin Cities
+
+</div>
 :::
-::::
 
 ## Macalester Urbanists
 
@@ -55,7 +63,8 @@ March 2024 - May 2024
 ## Macalester College
 
 ::: {layout="[ 80, 20 ]"}
-::: {#first-column}
+<div>
+
 **Research Assistant, Katharine Ordway Field Station**
 
 May 2022-August 2022
@@ -65,12 +74,15 @@ May 2022-August 2022
 -   Identified and cataloged over 30 species of plant cover in over 100 plots
 
 -   Worked independently in a hybrid setting; managed time and project goals effectively
-:::
 
-::: {#second-column}
+</div>
+
+<div>
+
 ![](ordway.jpg)
+
+</div>
 :::
-::::
 
 ## Flipside Afterschool
 
@@ -86,11 +98,15 @@ January 2023-May 2023
 
 ## Mathnasium of Sun Prairie
 
-:::{layout="[ 20, 80 ]"}
-:::{#first-column}
+::: {layout="[ 20, 80 ]"}
+<div>
+
 ![](https://www.mathnasium.com/storage/app/uploads/public/64e/667/3ed/64e6673edb34a596209098.jpg)
-:::
-:::{#second-column}
+
+</div>
+
+<div>
+
 **Math Instructor**
 
 April 2021- May 2022
@@ -100,8 +116,9 @@ April 2021- May 2022
 -   Taught essential math concepts from addition to geometry in an accessible and memorable way
 
 -   Kept track of student progress and struggles to plan for future lessons
+
+</div>
 :::
-::::
 
 ## The Young Shakespeare Players
 

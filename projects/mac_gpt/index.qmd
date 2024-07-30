@@ -9,7 +9,9 @@ about:
   image: gpt_group.jpg
 ---
 
-In fall of 2023, Macalester held its inagural Generating the Policy of Tomorrow challenge, asking teams of four students to develop a policy in eight hours addressing the challenge of SDG 6, Clean Water and Sanitation. In response, my team drew on pilot programs from Wisconsin and existing Minnesota legislation to create the Agricultural Water Preservation Act, an act designed to support farmers in strategically planning to reduce fertilizer runoff, erosion and water table depletion. We were honored with third place in the competition for our attention to detail and strategic consideration.
+In fall of 2023, Macalester held its inagural Generating the Policy of Tomorrow challenge, asking teams of four students to develop a policy in eight hours addressing the challenge of SDG 6, Clean Water and Sanitation. In that time, we developed a coherent policy, wrote a policy memo, and presented in front of fellow competitors, climate and policy experts, and a panel of judges working in environmental policy in Minnesota.
+
+My team drew on pilot programs from Wisconsin and existing Minnesota legislation to create the Agricultural Water Preservation Act, an act designed to support farmers in strategically planning to reduce fertilizer runoff, erosion and water table depletion. We were honored with third place in the competition for our attention to detail and strategic consideration.
 
 The team consisted of (from left) Stellah Marienthal-LeGendre, myself, Cecilia Gomez Jimenez, and Maggie Wang.
 

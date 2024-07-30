@@ -4,31 +4,37 @@ title: "Skills"
 
 ## Technical Skills
 
--   proficient in R and RStudio
+**R and RStudio**
 
-    -   used for data visualization and app development
+- 4 years of experience, including graphing and data analysis in the [Greenhouse Gas Inventory](projects/ghg_inventory/index.qmd) and shiny app development in the [Strategy Planning Tool](projects/sp_tool/index.qmd).
 
-    -   package proficiencies include tidyverse, shiny, quarto, sf, ggplot2 and plotly
+**Python**
 
--   intermediate understanding of Python
+- 1 year of experience, including application development with [rune casting](projects/runeCasting/index.qmd) and dynamic visualizations in [garlic modeling research](projects/alliaria/index.qmd).
 
-    -   used for mathematical modeling, data visualization and varied programming tasks
+**MATLAB**
 
--   intermediate understanding of MATLAB
+- Experience using MATLAB to create a complex spatial grid model of [garlic mustard](projects/alliaria/index.qmd).
 
--   basic understanding of C++
+**C++**
 
--   intermediate understanding of ArcGIS Pro
+- Translated [garlic mustard](projects/alliaria/index.qmd) model from MATLAB into C++ to improve program efficiency. Learned basic C++ over the course of two weeks.
 
--   intermediate understanding of Excel
+**ArcGIS Pro**
+
+- Familiarity with ArcGIS Pro through coursework focused on climate change applications. Created vulnerability and risk maps from global data, used satellite images and ground-truth data to map land cover, and mapped watershed flow and storm surge risk to plan for flood-resilient infrastructure.
+
+**Microsoft Office Suite**
+
+- 3 years of experience, including creating dynamic filterable databases as well as simple data analysis in Excel.
 
 ## Transferrable Skills
 
 -   Skilled at collaborating with and leading both in person and remote teams
 
--   Comfortable conversing with a wide range of people about complex environmental topics. Developed while canvassing for Sunrise in both English and Spanish.
+-   Comfortable conversing with a wide range of people about complex environmental topics. Developed while [canvassing for Sunrise](experience.html#sunrise-twin-cities) in both English and Spanish.
 
--   Skilled at presenting in front of large groups of people.
+-   Skilled at [presenting](projects/mac_gpt/index.qmd) in front of large groups of people.
 
 -   Familiar with national, Minnesota-specific, and Twin Cities policies and programs around climate mitigation and emissions reductions.
 

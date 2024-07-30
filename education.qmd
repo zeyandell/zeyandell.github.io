@@ -4,16 +4,13 @@ title: "Education and Training"
 
 ## SDSN Youth Local Pathways Fellow
 
-
 March 2024 - March 2025
 
-![](lpf_logo.png){width=300}
+![](lpf_logo.png){width="300"}
 
 Sustainable Development Solutions Network Youth educates young people about the Sustainable Development Goals and provides opportunities for them to pioneer innovative solutions to address the world's biggest challenges.
 
 The Local Pathways Fellowship is a global peer-to-peer learning network for early-career urban sustainability professionals, wherein fellows deepen their knowledge of urban sustainability solutions while engaging in a deep, iterative process to create a project proposal for the advancement of SDG 11 (Urban Sustainability).
-
-
 
 ## Macalester College
 
@@ -53,14 +50,10 @@ Environmental Studies Justice Award
 :::
 
 ::: {#second-column}
-Copenhagen, DK
-
-August - December 2022
+Copenhagen, DK \| August - December 2022
 
 In this study abroad program, I immersed myself in Danish culture while learning about sustainability and urban design in one of the most bikeable cities in the world.
 
-**Coursework:**
-
-Sustainable Development in Northern Europe, Geographic Information Systems: Applied Climate Change Cases, Principles of Urban Livability, Sustainable by Design, Danish Language and Culture
+**Coursework**: Sustainable Development in Northern Europe, Geographic Information Systems: Applied Climate Change Cases, Principles of Urban Livability, Sustainable by Design, Danish Language and Culture
 :::
-::::
+:::
