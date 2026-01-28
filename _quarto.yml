@@ -16,6 +16,8 @@ website:
         text: Education
       - href: skills.qmd
         text: Skills
+      - href: blog.qmd
+        text: Blog
       
 page-footer:
   left: |

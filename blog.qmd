@@ -1,0 +1,11 @@
+---
+title: "Blog Posts"
+listing:
+  contents: blog
+  sort: "date"
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: true
+comments: false
+---
