@@ -2,13 +2,23 @@
 title: "Experience"
 ---
 
+## The Great Plains Institute
+
+**Communities Program Associate**
+
+October 2025 - ongoing
+
+-   Supporting local governments in electric vehicle planning, including conducting zoning reviews, analyzing charging management software, drafting EV visions, and more
+
+-   Researched and co-wrote a report on strategies to improve equity in bike share
+
 ## Metropolitan Council of the Twin Cities
 
 ::: {layout="[ 60, 40 ]"}
 ::: {#first-column}
 **Climate Data Analyst Intern, Met Scholars Intern**
 
-May 2023 - ongoing
+May 2023 - May 2025
 
 -   Conducted varied research and policy projects involving sourcing and analyzing data, researching and drafting policy, and communicating complex data analysis processes to the general public
 
@@ -37,7 +47,7 @@ May 2023 - ongoing
 
 **Hub Representative**
 
-Nov 2023 - ongoing
+Nov 2023 - May 2024
 
 -   Coordinated between national and local movement branches
 

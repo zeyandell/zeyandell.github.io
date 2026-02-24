@@ -1,0 +1,26 @@
+---
+title: "Heat and Cooling in Dallas, TX"
+description: "Who gets left behind in the heat? An environmental justice exploration through storymaps."
+image: dallas_2.jpg
+categories:
+  - Design
+  - Data
+  - Environmental Communication
+about:
+  template: marquee
+  image: dallas_2.jpg
+---
+
+This project, a capstone for trubel&co's Data Storytelling for Environmental Justice class, used mapping to investigate the ways that historical inequities contribute to patterns in tree canopy cover, energy burden, access to cooling centers, and more, as well as what local organizations are doing to address these problems. I was honored to work on this project alongside the incredible Jana Turner and Maeva Kadjo.
+
+I was responsible for content in the following sections:
+
+-   The text and mapping of the "historical context" section
+
+-   The text and visuals of the literature review
+
+-   Data sourcing and mapping within the maps carousel on air conditioning access, cooling centers, transit, and car access
+
+-   Explanatory text in the maps carousel
+
+<https://storymaps.arcgis.com/stories/47d1b8c1c3a843328259b418b08cdfe7>

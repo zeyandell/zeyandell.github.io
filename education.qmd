@@ -2,6 +2,12 @@
 title: "Education and Training"
 ---
 
+## trubel&co Data Storytelling for Environmental Justice
+
+July - August 2025
+
+In this accelerated course, I worked with two other incredible participants to dive deep into ArcGIS and create a storymap exploring the disparate geography of extreme heat in Dallas, Texas. Learn more about the project here!
+
 ## SDSN Youth Local Pathways Fellow
 
 March 2024 - March 2025
