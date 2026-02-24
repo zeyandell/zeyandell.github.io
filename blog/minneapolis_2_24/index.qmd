@@ -1,0 +1,29 @@
+---
+title: "Minneapolis Under Occupation: Feb 24"
+description: "Here's what you need to know about Minnesota right now: They're still here."
+image: mn_posters.png
+date: "2/24/2026"
+about:
+  template: marquee
+  image: mn_posters.png
+---
+
+Here's what you need to know about Minnesota right now: They're still here.
+
+The story is that we won, that Tom Homan swooped in and pulled out his troops, that Minnesota is devastated but safe. The story, as usual, is a lie.
+
+Every time I go out to patrol, there is another ICE vehicle spotted. A few days ago, the report was of a suspicious van that threatened and yelled at the neighbors who followed it, tipped off by the camo-wearing drivers. I learned about it as I watched high school students finish their morning commute, scanning the streets in case the camo car decided to come for them. I hear stories of increased presence in the suburbs, and in rural communities not big enough to fight back.
+
+Meanwhile, it is February in Minnesota. The temperatures this week are warmer. I'm finally getting back outside, going for walks, enjoying the weather. Many of my neighbors are not going for walks. Many of my neighbors are still sheltering inside, unable to go to work or school, waiting in a limbo that stretches on for months.
+
+Businesses are closing. We're doing our best to support who we can, but money is not coming in to Minnesota's economy, and the small businesses are struggling. Business owners are detained, or cannot open out of fear. And like I said, it's February. This month, thousands of residents weren't able to pay rent because of the occupation. Next month, it will be more.
+
+They are still here. We are still struggling. And we are still fighting back.
+
+Coalitions of organizations are banding together to push for an eviction moratorium and rent relief funds. Nonprofits in clean energy have established an energy bill relief fund, and people from all over the world are contributing to mutual aid funds for rent, groceries, heat, and more. (I was especially moved by Brandi Carlile's concert, which raised \$600k for the organization Advocates for Human Rights.)
+
+{{< video https://www.youtube.com/watch?v=0ge05BD9Tlg >}}
+
+We still need your support and your attention. Keep your eyes on Minnesota. Don't believe the lies. Build your own community resistance networks, and never forget that the goal is not just to survive until they bring their violent thugs somewhere else. The goal is to dismantle the machinery that enables fascism. Call your representatives and tell them: ABOLISH ICE!
+
+<https://www.standwithminnesota.com>
